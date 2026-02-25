@@ -1,3 +1,10 @@
+# ⚠️ DEPRECATED
+This repository is no longer maintained. Development has moved to a new project.
+
+**Please migrate to the new package for the latest features and bug fixes:**
+* **GitHub:** [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+* **NPM:** [@animo-id/mdoc](https://www.npmjs.com/package/@owf/mdoc)
+
 # mDL Implementation in JavasScript (TypeScript)
 
 This is the reference implmentation of [ISO 18013-5](https://www.iso.org/standard/69084.html) defines mDL (mobile Driver Licenses) specification written in TypeScript. It aims to provide a production-ready, robust and secure way to handle.
